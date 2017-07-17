@@ -75,7 +75,7 @@ def check (count):
         logging.warning('Nanopool Api: Hashrate seems to be zero')                              #Logs a warning
         
 
-    if count == 2:                                                                              #If the hashrate is 2
+    if count == 2:                                                                              #If the count variable is 2 (you can change it to 1 if you want to risk false positives)
 
         popen('taskkill /f /im ' + getArguments()[1])                                           #Kills ethminer.exe
 
