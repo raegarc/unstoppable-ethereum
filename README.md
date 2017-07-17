@@ -20,7 +20,7 @@ If you want a more in depth explanation see the source code that is all commente
 
 <ul>
 <li>Install Python 3.6</li>
-<li>Drop the two scripts on your miner folder</li>
+<li>Download this files to your miner folder</li>
 <li>Edit the batch file like is explained in the comments</li>
 <li>Create a shortcut of the batch file on where you want</li>
 </ul>
