@@ -1,0 +1,2 @@
+python "C:\Program Files\Ethminer\ethereum.py" "C:\Program Files\Ethminer\ethminer.exe" "ethminer.exe" "--farm-recheck 1000 -U -S eth-eu1.nanopool.org:9999 -FS eth-eu2.nanopool.org:9999 -O 0xc5c5a034db718ce4abb6971c860d10aed74833aC.RIG1/luisfonseca720@gmail.com -v 9" 0xc5c5a034db718ce4abb6971c860d10aed74833aC 10
+pause
