@@ -13,6 +13,7 @@ A python script for your ethereum miner and nanopool that don't allow your rig t
 <b>How it works</b>
 
 The script gets the hashrate of your rig from the nanopool api, if the hashrate is zero that means the miner is not working and it restarts.
+
 If you want a more in depth explanation see the source code that is all commented.
 
 <b>How to install</b>
