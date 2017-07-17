@@ -1,5 +1,5 @@
 # Unstoppable Ethereum
-A python script for nanopool that don't allow your rig to stop
+A python script for nanopool that doesn't allow your rig to stop
 
 <b>Requirements</b>
 
@@ -26,10 +26,10 @@ If you want a more in depth explanation see the source code that is all commente
 <li>Create a shortcut of the batch file on where you want</li>
 </ul>
 
-<b>This helped you?</b>
+<b>Did this help you?</b>
 
-If this helped you fell free to return the favor by donating some <a href="https://eth.nanopool.org/account/0xc5c5A034db718cE4Abb6971c860D10AeD74833aC">Ethereum</a> or <a href="https://etherscan.io/address/0xc5c5a034db718ce4abb6971c860d10aed74833ac">Bitcoin</a> to me.
+If this helped you feel free to return the favor by donating some <a href="https://eth.nanopool.org/account/0xc5c5A034db718cE4Abb6971c860D10AeD74833aC">Ethereum</a> or <a href="https://etherscan.io/address/0xc5c5a034db718ce4abb6971c860d10aed74833ac">Bitcoin</a> to me.
 
-You can also help by improving the code, all help is appreciated!
+You can also help by improving the code or correcting my grammar error (English isn't my first language), all help is appreciated!
 
 And please upvote the <a href="https://www.reddit.com/r/EtherMining/comments/6nuuay/an_automatic_python_script_that_restarts_the/">Reddit thread</a> so more people can be helped
