@@ -24,3 +24,7 @@ If you want a more in depth explanation see the source code that is all commente
 <li>Edit the batch file like is explained in the comments</li>
 <li>Create a shortcut of the batch file on where you want</li>
 </ul>
+
+<b>This helped you?</b>
+
+If this helped you fell free to return the favor by donating some <a href="https://eth.nanopool.org/account/0xc5c5A034db718cE4Abb6971c860D10AeD74833aC">Ethereum</a> or <a href="https://etherscan.io/address/0xc5c5a034db718ce4abb6971c860d10aed74833ac">Bitcoin</a> to me.
