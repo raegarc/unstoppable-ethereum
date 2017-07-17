@@ -32,4 +32,4 @@ If this helped you fell free to return the favor by donating some <a href="https
 
 You can also help by improving the code, all help is appreciated!
 
-And please upvote the<a href="https://www.reddit.com/r/EtherMining/comments/6nuuay/an_automatic_python_script_that_restarts_the/">Reddit thread</a> so more people can be helped
+And please upvote the <a href="https://www.reddit.com/r/EtherMining/comments/6nuuay/an_automatic_python_script_that_restarts_the/">Reddit thread</a> so more people can be helped
