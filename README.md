@@ -4,7 +4,7 @@ A python script for your ethereum miner and nanopool that don't allow your rig t
 <b>Requirements</b>
 
 <ul>
-<li>A Windows machine (only tested on Win10 x64)</li>
+<li>A Windows machine (tested on Win10 x64)</li>
 <li>An Ethereum miner (tested on <a href="https://github.com/Genoil/cpp-ethereum">Genoil miner</a>)</li>
 <li><a href="https://eth.nanopool.org/">Nanopool</a></li>
 <li><a href="https://www.python.org/downloads/release/python-362/">Python 3.6</a></li>
