@@ -1,5 +1,5 @@
 # Unstoppable Ethereum
-A python script for your ethereum miner and nanopool that don't allow your rig to stop
+A python script for nanopool that don't allow your rig to stop
 
 <b>Requirements</b>
 
