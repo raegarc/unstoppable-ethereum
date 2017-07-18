@@ -11,6 +11,9 @@ All notable changes to this project will be documented in this file.
 -Example to help creating a .bat file
 
 ## [1.0.1] - 2017-07-19
+### Added
+-Changelog
+
 ### Changed
 -Code optimizations (suggested and made by Reddit user phigo50)
 
