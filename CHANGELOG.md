@@ -23,3 +23,6 @@ All notable changes to this project will be documented in this file.
 -Command line parameters
 -Capability to restart ethminer.exe
 -Example to help creating a .bat file
+
+[Unreleased]: https://github.com/LsFonseca1/unstoppable-ethereum/compare/v1.0.1...master
+[1.0.1]: https://github.com/LsFonseca1/unstoppable-ethereum/compare/v1.0.0...v1.0.1
