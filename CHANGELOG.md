@@ -15,7 +15,7 @@ All notable changes to this project will be documented in this file.
 -Changelog
 
 ### Changed
--Code optimizations (suggested and made by Reddit user phigo50)
+-Code optimizations
 
 ## [1.0.0] - 2017-07-18
 ### Added
