@@ -37,5 +37,5 @@ And please upvote the <a href="https://www.reddit.com/r/EtherMining/comments/6nu
 <b>Acknolegements</b>
 
 <ul>
-<li>Thanks to <a href="https://www.reddit.com/user/phigo50">Phigo50</a> from the <a href="https://www.reddit.com/r/EtherMining/comments/6nuuay/an_automatic_python_script_that_restarts_the/">Reddit Thread</a> for helping organizing the my messy code</li>
+<li>Thanks to <a href="https://www.reddit.com/user/phigo50">Phigo50</a> from the <a href="https://www.reddit.com/r/EtherMining/comments/6nuuay/an_automatic_python_script_that_restarts_the/">Reddit Thread</a> for helping organizing my messy code</li>
 </ul>
