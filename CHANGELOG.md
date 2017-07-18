@@ -1,5 +1,6 @@
 # Changelog
 All notable changes to this project will be documented in this file.
+If you are on Github please read the raw version
 
 ## [Unreleased]
 ### Added
