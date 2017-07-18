@@ -44,7 +44,7 @@ def check_hashrate(url):
 	
 if len(argv) == 6: 
 	path, name, args, wallet, delay = argv[1:]
-	delay *= 60
+	delay = int(delay) * 60
 	popen(path + ' ' + args)
 	sleep(delay)														   
 	check_hashrate('https://api.nanopool.org/v1/eth/hashrate/' + wallet) 
