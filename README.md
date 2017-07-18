@@ -33,3 +33,9 @@ If this helped you feel free to return the favor by donating some <a href="https
 You can also help by improving the code or correcting my grammar error (English isn't my first language), all help is appreciated!
 
 And please upvote the <a href="https://www.reddit.com/r/EtherMining/comments/6nuuay/an_automatic_python_script_that_restarts_the/">Reddit thread</a> so more people can be helped
+
+<b>Acknolegements</b>
+
+<ul>
+<li>Thanks to <a href="https://www.reddit.com/user/phigo50">Phigo50</a> from the <a href="https://www.reddit.com/r/EtherMining/comments/6nuuay/an_automatic_python_script_that_restarts_the/">Reddit Thread</a> for helping organizing the my messy code</li>
+</ul>
